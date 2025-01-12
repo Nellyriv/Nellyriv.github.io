@@ -1,2 +1,4 @@
 # Nellyriv.github.io
-Academic integrity is the backbone of what it means to be a student. What use will these classes have on us in a real world job setting if we cut corners and at every opprotunity? Why spend the money and time to throw it all away plagirising or cheating and taking a seat in the classroom from someone who wants to do well? The Professors are also passionate about what they are teaching and put in so much of their time into creating the coursework that it is disrepectful to them as much as it is to yourself. In life it is important to keep your integrity high and in the classroom it should be no different.
+My name is Nelson Rivero. My email is njriveropantoja@my.waketech.edu
+This is my school account. My profile picture is a photo of my cat Midna.
+This repository will hold all of the assignments for my CTI 110 class.
