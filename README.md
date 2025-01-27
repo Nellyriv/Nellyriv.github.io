@@ -9,5 +9,5 @@ This repository will hold all of the assignments for my CTI 110 class.
 - Currently work in Healthcare
 - History
 ## Websites I recommend 
-- [The North Carolina State Digital Archives] (https://digital.ncdcr.gov/Documents/Detail/cities-raleigh/197102) - I really enjoy looking at old photographs and manuscripts of Raleighs History.
-- [Chess.com] (https://chess.com) - Chess is an awesome brain game. my username is smellynelly601
+* [The North Carolina State Digital Archives](https://digital.ncdcr.gov/Documents/Detail/cities-raleigh/197102) - I really enjoy looking at old photographs and manuscripts of Raleighs History.
+* [Chess.com](https://chess.com) - Chess is an awesome brain game. my username is smellynelly601
